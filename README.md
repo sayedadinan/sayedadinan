@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter, dart**
 
-- 👨‍💻 All of my projects are available at [sayedadinan.github.io/sayed-adinan/](sayedadinan.github.io/sayed-adinan/)
+- 👨‍💻 All of my projects are available at (github.com/sayedadinan)
 
 - 💬 Ask me about **flutter**
 
