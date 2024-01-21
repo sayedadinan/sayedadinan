@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **flutter, dart**
 
-- 👨‍💻 All of my projects are available at (github.com/sayedadinan)
+- 👨‍💻 All of my projects are available at [sayedadinan.github.io/sayed-adinan/](sayedadinan.github.io/sayed-adinan/)
 
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **adinansayed@gmail.com**
 
-- 📄 Know about my experiences [sayedadinan.github.io/sayed-adinan/](github.com/sayedadinan)
+- 📄 Know about my experiences [sayedadinan.github.io/sayed-adinan/](sayedadinan.github.io/sayed-adinan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
