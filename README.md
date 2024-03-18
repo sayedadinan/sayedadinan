@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adinansayed@gmail.com**
 
-- 📄 Know about my experiences [sayedadinan.github.io/sayed-adinan/](sayedadinan.github.io/sayed-adinan/)
+- 📄 Know about my experiences [sayedadinan.github.io/sayed-adinan/](https://github.com/sayedadinan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
