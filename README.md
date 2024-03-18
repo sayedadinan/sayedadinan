@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [sayedadinan.github.io/sayed-adinan/](sayedadinan.github.io/sayed-adinan/)
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about anything about **flutter**
 
 - 📫 How to reach me **adinansayed@gmail.com**
 
